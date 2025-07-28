@@ -39,7 +39,7 @@ Il grafico risultante mostra il valore di `x` all’equilibrio (o nei cicli) in 
 - `LogisticMap.m` — Codice MatLab che genera il diagramma
 - `Logistic_map.png` — Immagine del grafico
 - `README.md` — Questo file
-- 
+
 ##  Note
 
 In futuro sarà aggiunta anche una **versione Python** per rendere il progetto accessibile a un pubblico più ampio e mostrare versatilità su più linguaggi.
