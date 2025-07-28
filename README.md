@@ -28,7 +28,7 @@ Per ogni valore di ρ, vengono analizzati gli ultimi valori di `xₙ` dopo un ce
 - aprirlo in MatLab
 - runnare il codice
 
-## Output
+## Esempio grafico
 
 Il grafico risultante mostra il valore di `x` all’equilibrio (o nei cicli) in funzione del parametro ρ. Il colore nero su sfondo scuro evidenzia il comportamento del sistema, rendendo visibili biforcazioni e transizioni caotiche.
 
@@ -37,8 +37,9 @@ Il grafico risultante mostra il valore di `x` all’equilibrio (o nei cicli) in 
 ## File presenti
 
 - `LogisticMap.m` — Codice MatLab che genera il diagramma
-- `Logistic_map.png` — Immagine del grafico del grafico
-
+- `Logistic_map.png` — Immagine del grafico
+- `README.md` — Questo file
+- 
 ##  Note
 
 In futuro sarà aggiunta anche una **versione Python** per rendere il progetto accessibile a un pubblico più ampio e mostrare versatilità su più linguaggi.
