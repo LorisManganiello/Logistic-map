@@ -1,6 +1,6 @@
 ![MatLab](https://img.shields.io/badge/MatLab-v3.9-blue.svg)
 ![Status](https://img.shields.io/badge/status-work&in&progrss-green.svg)
-![Logistic Map](https://img.shields.io/badge/Netflix-Logistic%20Map-red.svg)
+![Logistic Map](https://img.shields.io/badge/Logistic%20Map-red.svg)
 
 # Logistic Map – Diagramma di Biforcazione
 
