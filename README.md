@@ -1,4 +1,4 @@
-![MatLab](https://img.shields.io/badge/MatLab-v3.9-blue.svg)
+![MatLab](https://img.shields.io/badge/MatLab-v2020a-blue.svg)
 ![Logistic Map](https://img.shields.io/badge/Project-Logistic%20Map-red.svg)
 ![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow.svg)
 
